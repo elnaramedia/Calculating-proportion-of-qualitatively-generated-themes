@@ -27,6 +27,8 @@ To find the pathname:
 
 **Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
 
-You’ll use this pathname to load the files into the script for analysis.
-
 **Step 3:**
+Now, use the code used for calculation in the .py file. 
+
+**Results**
+
