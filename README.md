@@ -17,18 +17,16 @@ Before using the code, you need to prepare your text data for the analysis. Here
 
 For each overarching theme, copy and paste all the text you manually coded under the initial codes that contributed to that theme. For example, if one theme is based on five initial codes, copy all the relevant excerpts from those five codes into the Word document for that theme. Repeat this process for every overarching theme.
 
-Do **not worry** about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the coding stage.
+Do not worry about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the coding stage.
 
-**Step 2:** After creating the five Word documents (one for each overarching theme), place them all into a single folder. Then, copy the full pathname of that folder. You’ll need it to reference the folder location when running the Python script.
-
-To find the pathname: 
+**Step 2:** After creating the five Word documents (one for each overarching theme), place them all into a single folder. Then, copy the full pathname of that folder. You’ll need it to reference the folder location when running the Python script. To find the pathname: 
 
 **Windows:** Right-click the folder > “Properties” > copy the location path and add the folder name at the end.
 
 **Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
 
 **Step 3:**
-Now, use the code used for calculation in the .py file. 
+Now, use the code from the .py file for the calculation. 
 
 **Results**
 
