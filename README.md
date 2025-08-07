@@ -22,6 +22,7 @@ Do **not worry** about fixing grammar, punctuation, or sentence structure—leav
 **Step 2:** After creating the five Word documents (one for each overarching theme), place them all into a single folder. Then, copy the full pathname of that folder. You’ll need it to reference the folder location when running the Python script.
 
 To find the pathname: 
+
 **On Windows:** Right-click the folder > “Properties” > copy the location path and add the folder name at the end.
 **On Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
 
