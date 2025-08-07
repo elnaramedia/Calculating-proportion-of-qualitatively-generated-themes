@@ -45,10 +45,10 @@ Each number represents the proportion of an overarching theme discussed in the t
 The order of these proportions matches the numerical order of the Word documents you created. For example, if your first document was named “1-Set expectations,” then the first number (e.g., 17.77) corresponds to the proportion of the “Set expectations” theme in the transcript.
 
 If you have several transcripts, process them one at a time: 
-•	Add the first transcript to the folder.
-•	Run only the last part of the script.
-•	Remove the processed transcript from the folder.
-•	Add the next transcript, and repeat the steps.
+1)	Add the first transcript to the folder.
+2)	Run only the last part of the script.
+3)	Remove the processed transcript from the folder.
+4)	Add the next transcript, and repeat the steps.
 
 **Results**
 
@@ -57,17 +57,17 @@ The sum of the five theme proportions will reflect the portion of the transcript
 **Optional: Normalise Theme Proportions Over Time**
 If you collected qualitative data over multiple time points (e.g., daily, weekly, monthly), and want to standardize the prominence of each theme relative to others, you can do the following:
 
-•	For each time point (e.g., each week):
-•	Take the proportion of each theme.
-•	Divide it by the sum of the other four theme proportions for that time point.
-•	Multiply the result by 100.
+For each time point (e.g., each week):
+1) Take the proportion of each theme.
+2) Divide it by the sum of the other four theme proportions for that time point.
+3) Multiply the result by 100.
 
 Repeat this for all five themes across each document (daily, weekly, monthly, etc.).
 
 **Example Visualization**
 Below is an example of my results based on a 10-week longitudinal dataset. The chart was created in Excel using the calculated theme proportions.
 
-<img width="494" height="348" alt="image" src="https://github.com/user-attachments/assets/7aa58107-26ee-45af-bc36-924a8d9c75a4" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7aa58107-26ee-45af-bc36-924a8d9c75a4" />
 
 **Conclusion**
 
