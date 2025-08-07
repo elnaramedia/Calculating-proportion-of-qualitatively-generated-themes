@@ -39,7 +39,7 @@ After updating the folder path to the location of your transcript file, run the 
 The output will look like this:
 
 <div align="center">
-  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
+  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
 </div>
 
 Each number represents the proportion of an overarching theme discussed in the transcript. If you have five overarching themes, there will be five corresponding proportions.
@@ -69,7 +69,9 @@ Repeat this for all five themes across each document (daily, weekly, monthly, et
 **Example Visualization**
 Below is an example of my results based on a 10-week longitudinal dataset. The chart was created in Excel using the calculated theme proportions.
 
+<div align="center">
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7aa58107-26ee-45af-bc36-924a8d9c75a4" />
+</div>
 
 **Conclusion**
 
