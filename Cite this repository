@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this script, please cite it as below:"
 title: Calculating proportions of qualitatively generated themes
-version: 3.11.4
+version: 1.0.0
 authors:
 - family-names: Mammadova
   given-names: Elnara
