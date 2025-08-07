@@ -1,7 +1,8 @@
 # Calculating-proportion-of-qualitatively-generated-themes
-We developed Python code to quantify the frequency of qualitatively generated overarching themes to determine how often those themes occurred in the data. It helps researchers not just report the number and title of the overarching themes, but also which theme was discussed more than others. It helps to understand what the priorities or main concerns were highlighted by the participants in your investigated topic. 
+**Overview**
+We developed a Python script to quantify the frequency of overarching themes identified through qualitative analysis. This tool helps researchers move beyond simply listing themes by showing how often each theme appears in the dataset. By doing so, it highlights which topics were most frequently discussed, offering insight into participants' priorities and main concerns related to the research topic.
 
-You can use the Python code to quantify both one-time collected data (e.g., interviews, focus groups, open-ended survey questions) and longitudinal qualitative data for each time unit you collected data (e.g., daily, weekly, monthly, semester, yearly).
+The Python script can be used with both one-time data collections (e.g., interviews, focus groups, open-ended survey responses) and longitudinal qualitative data collected across time (e.g., daily, weekly, monthly, semester, or yearly).
 
-Data
-The data used for this research is collected at the Polytechnic, Purdue University during Fall 2023 across ten weeks. The data is not sharable.  
+**Data**
+The data used for this research were collected at Purdue University's Polytechnic during Fall 2023, spanning ten weeks. The data is not sharable.  
