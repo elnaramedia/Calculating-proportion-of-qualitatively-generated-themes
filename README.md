@@ -13,4 +13,9 @@ The data used for this research were collected at Purdue University's Polytechni
 
 Before using the code, you need to prepare your code for the analysis. Here are the steps: 
 
-Step 1: 
+**Step 1:** Let’s say you have generated five overarching themes. Create a separate Word document for each theme and title it accordingly. This step is essential to ensure accurate calculation of theme proportions later.
+
+For each overarching theme, copy and paste all the text you manually coded under the initial codes that contributed to that theme. For example, if one theme is based on five initial codes, copy all the relevant excerpts from those five codes into the Word document for that theme. Repeat this process for every overarching theme.
+
+Do **not worry** about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the coding stage.
+
