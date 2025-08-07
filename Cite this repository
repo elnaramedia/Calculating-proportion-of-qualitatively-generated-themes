@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below:"
+title: Calculating proportions of qualitatively generated themes
+version: 3.11.4
+authors:
+- family-names: Mammadova
+  given-names: Elnara
+  orcid: https://orcid.org/0000-0002-4010-4774
+  affiliation: Purdue University
+- family-names: Topalgokceli
+  given-names: Emre
+date-released: 2025-08-07
+keywords:
+  - qualitative analysis
+  - text mining
+  - python
+  - educational research
+doi: 10.5281/zenodo.16764383
+url: https://github.com/elnaramedia/Calculating-proportion-of-qualitatively-generated-themes
+license: BSD-3-Clause
