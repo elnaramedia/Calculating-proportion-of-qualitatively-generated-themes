@@ -11,7 +11,7 @@ The data used for this research were collected at Purdue University's Polytechni
 
 **Running the code**
 
-Before using the code, you need to prepare your code for the analysis. Here are the steps: 
+Before using the code, you need to prepare your text data for the analysis. Here are the steps: 
 
 **Step 1:** Let’s say you have generated five overarching themes. Create a separate Word document for each theme and title it accordingly. This step is essential to ensure accurate calculation of theme proportions later.
 
@@ -19,3 +19,11 @@ For each overarching theme, copy and paste all the text you manually coded under
 
 Do **not worry** about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the coding stage.
 
+**Step 2:** After creating the five Word documents (one for each overarching theme), place them all into a single folder. Then, copy the full pathname of that folder. You’ll need it to reference the folder location when running the Python script.
+
+    To find the pathname: **On Windows:** Right-click the folder > “Properties” > copy the location path and add the folder name at the end.
+                          **On Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
+
+You’ll use this pathname to load the files into the script for analysis.
+
+**Step 3:**
