@@ -23,10 +23,9 @@ Do **not worry** about fixing grammar, punctuation, or sentence structure—leav
 
 To find the pathname: 
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/894dd6f4-6101-41d1-86f6-29d01063f4dc" />
- Right-click the folder > “Properties” > copy the location path and add the folder name at the end.
+**Windows:** Right-click the folder > “Properties” > copy the location path and add the folder name at the end.
 
-**On Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
+**Mac:** Click on finder > View (in the menu bar)> Show Path bar. Now, click on your folder. The Pathname will appear at the bottom of the screen. Right-click on the name of your folder at the bottom of the Pathname > copy the "Name of the folder" as Pathname.
 
 You’ll use this pathname to load the files into the script for analysis.
 
