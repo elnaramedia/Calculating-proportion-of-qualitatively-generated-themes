@@ -57,6 +57,7 @@ If you have several transcripts, process them one at a time:
 The sum of the five theme proportions will reflect the portion of the transcript that you manually coded. For example, if you coded 80% of the interview text, the total of the five proportions will be approximately 80%, not 100%.
 
 **Optional**
+
 If you collected qualitative data over multiple time points (e.g., daily, weekly, monthly), and want to **standardise** the prominence of **each theme relative to others**, you can do the following:
 
 For each time point (e.g., each week):
