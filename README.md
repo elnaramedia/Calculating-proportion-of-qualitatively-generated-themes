@@ -1,4 +1,4 @@
-# Calculating-proportion-of-qualitatively-generated-themes
+# Calculating theme proportion in qualitative data analysis
 **Overview**
 
 We developed a Python script to quantify the frequency of overarching themes identified through qualitative analysis. Calculating proportion helps researchers move beyond simply listing themes by showing how often each theme appears in the dataset. By doing so, it highlights which topics were most frequently discussed, offering insight into participants' priorities and main concerns related to the research topic.
