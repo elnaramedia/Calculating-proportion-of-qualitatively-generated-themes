@@ -77,7 +77,8 @@ Below is an **example visualisation** of my results based on a 10-week longitudi
 
 Traditional qualitative data analysis often focuses solely on identifying overarching themes, without revealing how frequently each theme was discussed. As a result, audiences may miss which topics were most important or emphasised by participants. By incorporating text mining techniques, researchers can quantify the frequency of each theme, providing a more nuanced understanding of participants’ priorities and highlighting which issues were most prominent in the data.
 
-Cite this script in case of use:
+APA 7 Citation: 
+
 Mammadova, E., & Topalgokceli, E. (2025). _Calculating proportions of qualitatively generated themes_ (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.16764383 
 
 
