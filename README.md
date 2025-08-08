@@ -31,7 +31,7 @@ After creating the five Word documents (one for each overarching theme), place t
 
 **Step 3:** **Run the script to clean your data**
 
-Use the code in the .py file to clean your data. Run the script up to the section where you're prompted to specify the folder path for your raw transcript.
+Use the code in the CalculateThemeProportion.py file to clean your data. Run the script up to the section where you're prompted to specify the folder path for your raw transcript.
 
 **Step 4:** **Update folder path and run the script**
 
