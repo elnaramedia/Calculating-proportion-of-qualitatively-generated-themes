@@ -65,7 +65,7 @@ For each time point (e.g., each week):
 2) Divide it by the sum of the other four theme proportions for that time point.
 3) Multiply the result by 100.
 
-Repeat this for all five themes across each document (daily, weekly, monthly, etc.).
+Repeat this for all five themes across each document (daily, weekly, monthly, etc.). Check the "Proportion of themes" Excel doc for an example.
 
 Below is an **example visualisation** of my results based on a 10-week longitudinal dataset. The chart was created in Excel using the calculated theme proportions.
 
