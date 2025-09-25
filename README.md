@@ -79,7 +79,7 @@ Traditional qualitative data analysis often focuses solely on identifying overar
 
 APA 7 Citation: 
 
-Mammadova, E., & Topalgokceli, E. (2025). Calculating theme proportions in qualitative data analysis (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.16764383
+Mammadova, E., & Topalgokceli, E. (2025). Calculating theme proportions in qualitative data analysis (v1.1). Zenodo. https://doi.org/10.5281/zenodo.16790125
 
 
 
