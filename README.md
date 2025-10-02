@@ -61,9 +61,9 @@ The sum of the five theme proportions will reflect the portion of the transcript
 If you collected qualitative data over multiple time points (e.g., daily, weekly, monthly), and want to **standardise** the prominence of **each theme relative to others**, you can do the following:
 
 For each time point (e.g., each week):
-1) Take the proportion of each theme.
-2) Divide it by the sum of the other four theme proportions for that time point.
-3) Multiply the result by 100.
+1) Take the proportion of each theme. (e.g. 10 (Theme 1), 20(T2), 15(T3), 11(T4), 18(T5))
+2) Divide it by the sum of the other four theme proportions for that time point. (e.g. T1= 10(T1)/(10(T1)+20(T2)+15(T3)+11(T4)+18(T5))=0.1351)
+3) Multiply the result by 100. (e.g. T1%= 100*.1351=13.51%)
 
 Repeat this for all five themes across each document (daily, weekly, monthly, etc.). Check the "Proportion of themes" Excel doc for an example.
 
