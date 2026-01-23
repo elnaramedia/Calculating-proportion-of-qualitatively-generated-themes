@@ -19,7 +19,7 @@ Let’s say you have generated five overarching themes. Create a separate Word d
 
 For each overarching theme, copy and paste all the text you manually coded under the initial codes that contributed to that theme. For example, if one theme is based on five initial codes, copy all the relevant excerpts from those five codes into the Word document for that theme. Repeat this process for every overarching theme.
 
-Do not worry about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the coding stage.
+Do not worry about fixing grammar, punctuation, or sentence structure—leave the text exactly as it is. You will clean the text (e.g., remove punctuation and non-alphabetical characters) during the data cleaning stage.
 
 **Step 2:** **Get the pathname**
 
