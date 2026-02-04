@@ -44,12 +44,11 @@ The output will look like this:
 
 Each number represents the proportion of an overarching theme discussed in the transcript. If you have five overarching themes, there will be five corresponding proportions.
 
-To determine how the order of these proportions matches with which Word documents you created, scroll up and check in Python Console the output title "Combined". It will show you the title of the document and how code ordered them in the result. The output look like this:
+To identify which proportion corresponds to each Word document, refer to the 'Combined' output title in the Python Console (scroll up in console and you will see the "Combined" section). This section displays the document titles alongside their assigned order. The output format is shown below::
 
 <div align="center">
   <img width="600" alt="Align order proportion result" src="https://github.com/elnaramedia/Calculating-proportion-of-qualitatively-generated-themes/blob/3e001ec444179402a17a2ebf12d1385bc98c3b94/Align_order_proportion_result_w_doc.png" />
 </div>
-
 
 The proportion printed first (0) is coming from the document you named “2-Setting up expectations,” meaning the first number (e.g., 17.77) corresponds to the proportion of the “Setting up expectations” theme in the transcript.
 
