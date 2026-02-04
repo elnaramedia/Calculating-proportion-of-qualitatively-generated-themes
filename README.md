@@ -39,7 +39,7 @@ After updating the folder path to the location of your transcript file, run the 
 The output will look like this:
 
 <div align="center">
-  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
+  <img width="600" height="500" alt="proportion of the themes" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
 </div>
 
 Each number represents the proportion of an overarching theme discussed in the transcript. If you have five overarching themes, there will be five corresponding proportions.
@@ -47,8 +47,9 @@ Each number represents the proportion of an overarching theme discussed in the t
 To determine how the order of these proportions matches with which Word documents you created, scroll up and check in Python Console the output title "Combined". It will show you the title of the document and how code ordered them in the result. The output look like this:
 
 <div align="center">
-  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9e605ce2badda88f7509b528f3ee282c01a543a7" />
+  <img width="600" alt="Align order proportion result" src="https://github.com/elnaramedia/Calculating-proportion-of-qualitatively-generated-themes/blob/3e001ec444179402a17a2ebf12d1385bc98c3b94/Align_order_proportion_result_w_doc.png" />
 </div>
+
 
 The proportion printed first (0) is coming from the document you named “2-Setting up expectations,” meaning the first number (e.g., 17.77) corresponds to the proportion of the “Setting up expectations” theme in the transcript.
 
