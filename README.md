@@ -47,7 +47,7 @@ Each number represents the proportion of an overarching theme discussed in the t
 To identify which proportion corresponds to each Word document, refer to the 'Combined' output title in the Python Console (scroll up in console and you will see the "Combined" section). This section displays the document titles alongside their assigned order. The output format is shown below::
 
 <div align="center">
-  <img width="600" alt="Align order proportion result" src="https://github.com/elnaramedia/Calculating-proportion-of-qualitatively-generated-themes/blob/3e001ec444179402a17a2ebf12d1385bc98c3b94/Align_order_proportion_result_w_doc.png" />
+  <img width="600" alt="Align proportion result order with the documents" src="https://github.com/elnaramedia/Calculating-proportion-of-qualitatively-generated-themes/blob/a8c8dbb0fc43dd9d9b294a811b797c69342c148d/Align_proportion_order_w_doc.png" />
 </div>
 
 The proportion printed first (0) is coming from the document you named “2-Setting up expectations,” meaning the first number (e.g., 17.77) corresponds to the proportion of the “Setting up expectations” theme in the transcript.
