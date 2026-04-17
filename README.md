@@ -39,7 +39,7 @@ After updating the folder path to the location of your transcript file, run the 
 The output will look like this:
 
 <div align="center">
-  <img width="600" height="500" alt="proportion of the themes" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
+  <img width="600" alt="proportion of the themes" src="https://github.com/user-attachments/assets/6d1d4a50-0083-49c1-a68d-81080abb1d8b" />
 </div>
 
 Each number represents the proportion of an overarching theme discussed in the transcript. If you have five overarching themes, there will be five corresponding proportions.
